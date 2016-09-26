@@ -15,7 +15,7 @@ img {
 }
 .bottomright {
     position:absolute;
-    bottom:50px;
+    top:20px;
     right: 30px;
     font-size: 18px;
     color: white;
