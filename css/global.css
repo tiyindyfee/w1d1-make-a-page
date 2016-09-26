@@ -1,0 +1,13 @@
+body {
+    background-color: green;
+    font-size: 12;
+}
+.big-font {
+    font-size: 500px;
+}
+.red-text {
+    color: red;
+}
+h1 {
+    color: lime;
+}
