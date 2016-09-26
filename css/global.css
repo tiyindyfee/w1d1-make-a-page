@@ -1,6 +1,6 @@
 body {
     font-size: 12;
-    background: linear-gradient(), rgb(175, 175, 175);
+    background: linear-gradient(rgb(189, 189, 189), rgb(175, 175, 175));
     margin: 0;
     max-width: 100%;
 }
@@ -14,11 +14,11 @@ img {
     position: relative;
 }
 .bottomright {
-    position:fixed;
+    position:absolute;
     bottom:50px;
     right: 30px;
     font-size: 18px;
-    color: black;
+    color: white;
 }
 
 .huerotate {
